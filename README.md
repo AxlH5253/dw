@@ -23,4 +23,4 @@ file php dapat dikesekusi pada browser dengan menjalankan aplikasi server terleb
 Karena pada soal nomor 8 berisi beberapa file php maka dibuat dalam bentuk sebuah folder
 
 ## Author
-* ** Axl Hanuebi **
+* **Axl Hanuebi**
